@@ -1,0 +1,9 @@
+Hyperparameter Optimization with IBM Watson Studio
+https://github.com/nheidloff/hyperparameter-optimization-ibm-watson-studio
+© Copyright IBM Corp. 2018
+
+
+The following code is embedded in this project:
+
+https://github.com/tensorflow/tensorflow/tree/r1.7/tensorflow/examples/image_retraining
+ALv2: https://github.com/tensorflow/tensorflow/blob/r1.7/LICENSE
